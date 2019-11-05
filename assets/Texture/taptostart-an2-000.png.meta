@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f2cc88e5-c923-45e6-8b81-cca9b5a0d86f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "taptostart-an2-000": {
+      "ver": "1.0.3",
+      "uuid": "9b0395eb-0e3b-4d9d-8267-99c520ab600d",
+      "rawTextureUuid": "f2cc88e5-c923-45e6-8b81-cca9b5a0d86f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 324,
+      "height": 47,
+      "rawWidth": 324,
+      "rawHeight": 47,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
